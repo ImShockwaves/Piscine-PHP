@@ -1,0 +1,55 @@
+body {
+    background-color: #1DE2D5;
+    font-family: "American Typewriter";
+}
+
+.menu {
+    align-content: center;
+    width: 100%;
+    height: 100%;
+    padding-left: 30vw;
+    vertical-align: middle;
+}
+.logo {
+    width: 5%;
+    height: 5%;
+}
+
+/* Supprime les styles par défaut aux listes et la sous-liste */
+.nav {
+    list-style: none none;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
+.nav a {
+    display: block;
+    padding:2em;
+    color: blue;
+    background: #ADDBD8;
+    text-decoration: none;
+    border-radius: 1em;
+    margin: 2%;
+    color: black;
+}
+.nav a:focus,
+.nav a:hover {
+    color: black;
+    background: #ffc;
+    text-decoration: underline;
+}
+.nav-item {
+    float: left; /* Pour que les liens s’affichent horizontalement */
+    position: relative; /* Crée un contexte de positionnement pour les sous-listes */
+}
+.sub-nav {
+    display: none; /* Masque la sous-liste */
+    position: absolute; /* Evite que la dimension du conteneur ne change quand la sous-liste est affichée */
+
+    white-space: nowrap; /* Pour que le texte ne revienne pas à la ligne */
+
+    margin-top: -2px; /* Pour que le sous-menu recouvre son parent, facilitant le passage de la souris de l’un à l’autre */
+}
+.nav-item:hover .sub-nav {
+    display: block; /* Affiche cette sous-liste au survol de son conteneur */
+}
