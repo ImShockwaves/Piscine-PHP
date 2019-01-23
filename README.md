@@ -21,7 +21,7 @@ Projects :
 Piscine PHP are the first step to Web programming knowledge
 ```
 Here is the subject of each days and my results
-
+***
 #### Day00
 
 Learning the front tech (html/css).
