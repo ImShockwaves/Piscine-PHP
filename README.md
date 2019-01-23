@@ -1,7 +1,7 @@
 <h1 align=center>Web</h1>
 <h3>Web programmation (front and back).</h3>
 
-<p float="left">
+<p align=center float="left">
     <a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language"><img src="https://www.programmation-facile.com/wp-content/uploads/2014/03/html5.png" height="150" width="auto"></a>
  <a href="https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade"><img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/70/thumb_bigger_formation-css3.png" height="150" width="auto"></a>
  <a href="https://fr.wikipedia.org/wiki/JavaScript"><img src="http://ecofemina.fr/wp-content/uploads/2016/03/js-logo.png" height="150" width="auto"></a>
