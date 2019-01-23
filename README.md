@@ -77,26 +77,23 @@ Use all notions of previous days to create a warhammer 40k game like
 96/100 :)
 
 #### Day09
-***
 
 Learning the basic of js/jquery.
 
 0/100 D:
 
 #### Rush00
-***
 
 Creation of online shopping website
 
 38/100 :(
 
 #### Rush01
-***
 
 Upgrade of d08 warhammer game with user and ladder management
 
 93/100 :)
-
+***
 ## author
 
 From Web 42 branch.
