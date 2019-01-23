@@ -1,5 +1,5 @@
-# Web
-Web programmation (front and back).
+<h1 align=center>Web</h1>
+<h3>Web programmation (front and back).</h3>
 
 <p float="left">
     <a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language"><img src="https://www.programmation-facile.com/wp-content/uploads/2014/03/html5.png" height="150" width="auto"></a>
@@ -10,26 +10,16 @@ Web programmation (front and back).
  </p>
 
 Projects :
-* **piscine-PHP**
-* **Camagru**
-* **Matcha**
-* **Hypertube**
+* [x] **piscine-PHP**
+* [ ] **Camagru**
+* [ ] **Matcha**
+* [ ] **Hypertube**
 
 ### Piscine-PHP
 ***
-
-La piscine PHP va vous permettre d'accéder aux technologies de base du web.
-
-For more information about the piscine, look for the readme in piscine_PHP folder.
-
-### Camagru
-***
-
-Ce premier projet vous remet dans le bain après la piscine PHP : vous allez devoir réaliser, en PHP,
- un petit site Instagram-like permettant à des utilisateurs de réaliser et partager des photo-montages. 
- Vous allez ainsi implémenter, à mains nues (les frameworks sont interdits), les fonctionnalités de base rencontrées sur 
- la majorité des sites possédant une base utilisateur.
-
+```
+Piscine PHP are the first step to Web programming knowledge
+```
 ## author
 
 From Web 42 branch.
